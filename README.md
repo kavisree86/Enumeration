@@ -1,4 +1,4 @@
-![Screenshot 2024-05-07 085427](https://github.com/kavisree86/Enumeration/assets/145759687/696968a4-563a-4437-8994-b4b749e3868d)# Enumeration
+
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
