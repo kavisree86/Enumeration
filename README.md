@@ -58,10 +58,18 @@ inurl: This operator allows you to search for pages that contain specific text w
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
+![image](https://github.com/kavisree86/Enumeration/assets/145759687/3f1bef0b-d4bb-40f9-85a0-9ba2cb7bc1a3)
+
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
+![image](https://github.com/kavisree86/Enumeration/assets/145759687/ef9069a7-4b33-483c-8b2b-6197d5c74050)
+
+
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+
+![image](https://github.com/kavisree86/Enumeration/assets/145759687/6dcfa97f-f003-4354-97af-488aca416cba)
 
  
 #DNS Enumeration
@@ -129,7 +137,6 @@ and issue appropriate commands
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 
 
-## OUTPUT:
 
 
 ## RESULT:
